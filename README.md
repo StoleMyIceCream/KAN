@@ -1,6 +1,6 @@
 # Kolmogorov-Arnold Networks Implementation
 
-This repository contains a PyTorch implementation of Kolmogorov-Arnold Networks (KANs) as described in the paper ["Kolmogorov-Arnold Networks: A Mathematical Framework for Representing Functions"](https://arxiv.org/abs/2307.07151).
+This repository contains a PyTorch implementation of Kolmogorov-Arnold Networks (KANs) as described in the paper ["Kolmogorov-Arnold Networks: A Mathematical Framework for Representing Functions"](https://arxiv.org/abs/2404.19756).
 
 ## Installation
 
