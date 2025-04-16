@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files
+models/*.pth
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Generated output images
+*.png
+
+# IDE files
+.idea/
+.vscode/
