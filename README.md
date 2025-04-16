@@ -6,8 +6,8 @@ This repository contains a PyTorch implementation of Kolmogorov-Arnold Networks 
 
 ```bash
 # Clone the repository
-git clone https://github.com/stolemyicecream/kan-implementation.git
-cd kan-implementation
+git clone https://github.com/stolemyicecream/kan.git
+cd kan
 
 # Create and activate a virtual environment
 python -m venv venv
@@ -45,15 +45,6 @@ python experiments/q1_minimal_kan.py
 # Run function fitting experiment
 python experiments/q2_function_fitting.py
 ```
-
-### Using Jupyter Notebooks
-
-```bash
-# Start Jupyter notebook server
-jupyter notebook
-```
-
-Then navigate to the `notebooks/` directory and open the desired notebook.
 
 ## References
 
