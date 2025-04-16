@@ -57,6 +57,6 @@ Then navigate to the `notebooks/` directory and open the desired notebook.
 
 ## References
 
-1. Liu, R., Jain, S., Gard, Y., & Drusvyatskiy, D. (2023). Kolmogorov-Arnold Networks. [arXiv:2307.07151](https://arxiv.org/abs/2307.07151)
+1. Liu, R., Jain, S., Gard, Y., & Drusvyatskiy, D. (2023). Kolmogorov-Arnold Networks. [arXiv:2404.19756](https://arxiv.org/abs/2404.19756)
 2. https://www.dailydoseofds.com/implementing-kans-from-scratch-using-pytorch/
 3. https://mlwithouttears.com/2024/05/15/a-from-scratch-implementation-of-kolmogorov-arnold-networks-kan/
