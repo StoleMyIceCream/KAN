@@ -21,7 +21,6 @@ pip install -r requirements.txt
 
 - `kan/`: Core implementation of KAN models
 - `experiments/`: Python scripts for running experiments
-- `notebooks/`: Jupyter notebooks for interactive exploration
 - `utils/`: Utility functions for visualization and evaluation
 
 ## Tasks
